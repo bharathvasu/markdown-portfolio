@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* I Like to Play Chess.
+* I Love to Roam with Friends.
+* I love to Eat.
+  * Briyani:heart:
+  * Chicken
